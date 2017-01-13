@@ -1,0 +1,25 @@
+{
+  "name": "react-typescript-webpack-lite-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<mathew.w.allen@gmail.com>",
+  "scripts": {
+    "build": "webpack",
+    "build:watch": "webpack -w",
+    "server": "lite-server",
+    "start": "yarn run server & yarn run build:watch && fg"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.0",
+    "@types/react-dom": "^0.14.20",
+    "lite-server": "^2.2.2",
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.1.5",
+    "webpack": "^1.14.0"
+  }
+}
