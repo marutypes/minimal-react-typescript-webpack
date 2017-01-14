@@ -19,4 +19,4 @@ Ok so, like, use [yarn](https://yarnpkg.com) instead of npm. It's better. It's a
 If you want to use npm(😞) you can just substitute `yarn run` for `npm run` in all the above commands. But seriously, use yarn. It's like exactly the same except faster and less error prone defaults.
 
 ## License
-Nobody likes when a boilerplate has a license file they need to keep around. This project uses the [Whatever The Fuck You Want Public License](http://wtfpl.com). Just like, do whatever. I don't care. Delete it if you want, or not.
+Nobody likes when a boilerplate has a license file they need to keep around. This project uses the [Whatever The Fuck You Want Public License](http://www.wtfpl.net/about/). Just like, do whatever. I don't care. Delete it if you want, or not.
